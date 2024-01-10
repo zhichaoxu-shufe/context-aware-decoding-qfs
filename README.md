@@ -28,7 +28,7 @@ replace `transformers/src/transformers/generation/utils.py` with `generation/uti
 #### Correspondence
 Contact zhichao.xu@utah.edu if you have trouble running the code
 
-##### Citations
+#### Citations
 ```
 @article{shi2023trusting,
   title={Trusting Your Evidence: Hallucinate Less with Context-aware Decoding},
